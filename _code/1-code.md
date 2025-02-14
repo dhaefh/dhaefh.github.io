@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "single 1"
 collection: code
-type: "Undergraduate course"
-permalink: /code/2014-spring-teaching-1
+type: "single cell"
+permalink: /code/1-code
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2025-2-14
+location: "Bejing, China"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
