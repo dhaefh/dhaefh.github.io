@@ -3,7 +3,6 @@ title: "single 1"
 collection: code
 type: "single cell"
 permalink: /code/1-code
-venue: "University 1, Department"
 date: 2025-2-14
 location: "Bejing, China"
 ---
@@ -18,3 +17,4 @@ Heading 2
 
 Heading 3
 ======
+venue: "University 1, Department"
