@@ -6,7 +6,9 @@ permalink: https://doi.org/10.1111/bjh.18538
 excerpt: 'This is a retrospective clinical study.'
 date: 2022-11-08
 venue: 'British Journal of Haematology'
+<!--
 slidesurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/bjh.18538?saml_referrer'
+-->
 paperurl: 'https://onlinelibrary.wiley.com/doi/epdf/10.1111/bjh.18538?saml_referrer'
 citation: 'Huang Ting, et al. (2022). &quot;Haploidentical haematopoietic stem cell transplantation for TP53-mutated acute myeloid leukaemia.&quot; <i>British Journal of Haematology</i>. 1(1).'
 ---
