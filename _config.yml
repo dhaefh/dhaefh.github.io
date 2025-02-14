@@ -247,7 +247,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _code
   - scope:
       path: ""
       type: code
