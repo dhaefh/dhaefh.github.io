@@ -12,7 +12,7 @@ main:
     url: /talks/    
 
   - title: "code"
-    url: /_code/    
+    url: /code/    
     
   - title: "Portfolio"
     url: /portfolio/
